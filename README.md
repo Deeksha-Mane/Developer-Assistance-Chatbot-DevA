@@ -56,7 +56,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-Acknowledgements:
--OpenAI for providing the GPT-3.5 Turbo model.
--React Chatbot Kit for simplifying chatbot integration.
--Hack2Skill:Tech Camp to help build our own chatbots.
+<b>Acknowledgements:</b><br>
+-OpenAI for providing the GPT-3.5 Turbo model.<br>
+-React Chatbot Kit for simplifying chatbot integration.<br>
+-Hack2Skill:Tech Camp to help build our own chatbots.<br>
