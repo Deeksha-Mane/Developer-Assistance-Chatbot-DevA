@@ -1,3 +1,24 @@
+## Developer Assistance Chatbot (DevA)
+DevA is an intelligent and user-friendly chatbot crafted to assist developers by providing quick, reliable solutions to programming queries, debugging challenges, and more. Powered by OpenAI, DevA simplifies the coding process, boosts productivity, and ensures you never feel stuck while coding.
+
+DevA is your everyday companion for tackling programming problems, debugging code, and mastering development challenges.
+Make the most of DevA to unlock your potential, elevate your coding game, and solve problems faster than ever before. Let DevA be your go-to assistant for development and debugging success!
+
+<b>Technology Stack</b><br>
+Frontend: React.js<br>
+Styling: CSS3 with gradients, hover effects, visually appealing and responsive design<br>
+AI Model: OpenAI GPT-3.5 Turbo<br>
+Library: React Chatbot Kit
+
+<b>Features:</b><br>
+🚀 <b>Developer Assistance:</b> Get answers to programming questions, debug code, and explore best practices.<br>
+🎨 <b>Modern UI:</b> Clean and responsive interface with gradients and hover effects for a polished look.<br>
+💡 <b>AI-Powered:</b> Built using OpenAI's GPT-3.5 Turbo model for accurate and human-like responses.<br>
+🌐 <b>Responsive Design:</b> Works seamlessly across desktops, tablets, and mobile devices.<br>
+🕒 <b>24/7 Availability:</b> DevA is always ready to help, no matter the time or place. Whether it’s early morning debugging or a late-night coding marathon, DevA has your back.<br>
+✍️ <b>Customizable Responses:</b> Tailored to understand and address developer-specific problems.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +55,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+<b>Acknowledgements:</b><br>
+-OpenAI for providing the GPT-3.5 Turbo model.<br>
+-React Chatbot Kit for simplifying chatbot integration.<br>
+-Hack2Skill:Tech Camp to help build our own chatbots.<br>
