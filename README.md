@@ -15,7 +15,8 @@ Library: React Chatbot Kit
 🎨 <b>Modern UI:</b> Clean and responsive interface with gradients and hover effects for a polished look.<br>
 💡 <b>AI-Powered:</b> Built using OpenAI's GPT-3.5 Turbo model for accurate and human-like responses.<br>
 🌐 <b>Responsive Design:</b> Works seamlessly across desktops, tablets, and mobile devices.<br>
-🕒 <b>24/7 Availability:</b> DevA is always ready to help, no matter the time or place. Whether it’s early morning debugging or a late-night coding marathon, DevA has your back.
+🕒 <b>24/7 Availability:</b> DevA is always ready to help, no matter the time or place. Whether it’s early morning debugging or a late-night coding marathon, DevA has your back.<br>
+✍️ Customizable Responses: Tailored to understand and address developer-specific problems.
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
